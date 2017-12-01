@@ -1,35 +1,20 @@
 ## Welcome to My Code Samples
 
-I wanted to provide some samples of my ability to solve problems with Javascript, Java, Swift and Android. I will begin with Javascript and Java. 
+I wanted to provide some samples of my ability to solve problems with Javascript, Java, Swift and Android. I will begin with Javascript, Ruby and Java. 
 
-### Markdown
+### Javascript
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So far, I have several small exercises I have completed in Javascript. You will find them in the javascript folder.
 
-```markdown
-Syntax highlighted code block
+### Ruby
+I have a coding exercise I completed in Ruby in the Ruby folder.
 
-# Header 1
-## Header 2
-### Header 3
+### Java
+I will have a brief REST API I created that will display my résumé. Additionally, I will be implementing this in two, hopefully three different ways, both using Jersey (one as a Jersey Maven project, another as a Dynamic Web Project). I will also share code samples from my refreshers in Data Structures and Algorithms.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Thank you for visiting!
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mbpriester/code_samples/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Marquita Priester
