@@ -10,8 +10,7 @@ So far, I have several small exercises I have completed in Javascript. You will 
 I have a coding exercise I completed in Ruby in the Ruby folder.
 
 ### Java
-I will have a brief REST API I created that will display my résumé. Additionally, I will be implementing this in two, hopefully three different ways, both using Jersey (one as a Jersey Maven project, another as a Dynamic Web Project). I will also share code samples from my refreshers in Data Structures and Algorithms.
-
+I have a brief REST API I created that will display my résumé. One has already been committed. Additionally, I will be implementing this in another way, hopefully three different ways altogether. The initial two implementations will be using Jersey (one as a Jersey Maven project, another as a Dynamic Web Project). 
 
 
 Thank you for visiting!
