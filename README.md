@@ -1,6 +1,6 @@
 ## Welcome to My Code Samples
 
-I wanted to provide some samples of my ability to solve problems with Javascript, Java, Swift and Android. I will begin with Javascript, Ruby and Java. 
+I wanted to provide some samples of my ability to solve problems with Javascript, Java, Ruby, and eventually Swift and Android. I will begin with Javascript, Ruby and Java. 
 
 ### Javascript
 
